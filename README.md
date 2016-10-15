@@ -1,4 +1,4 @@
-# LykkeX
+# Lykke
 
 Lykke is movement to build a global marketplace for all assets and instruments. Our marketplace will use the distributed ledger technology pioneered by Bitcoin to offer immediate settlement and direct ownership.
 
@@ -21,3 +21,7 @@ Lykke is movement to build a global marketplace for all assets and instruments. 
 ## License
 
 Software is published under the MIT License, see LICENSE
+
+## Corporate information
+
+Lykke Corp (Lykke AG) is registered in Zurich, Switzerland, with identification number CHE-345.258.499.
