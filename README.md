@@ -18,5 +18,6 @@ Lykke is movement to build a global marketplace for all assets and instruments. 
 * [LykkeWin10App](https://github.com/LykkeCity/LykkeWin10App)
 * [CommonLibrary](https://github.com/LykkeCity/CommonLibrary)
 
+## License
 
-
+Software is published under the MIT License, see LICENSE
