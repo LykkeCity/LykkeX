@@ -1,8 +1,0 @@
-APPENDIX.COLORED COINS ISSUANCES
-Asset Name	Ticker	AssetId	Divisibility	Type	Coins issued	Issue Date	Redemption Date
-Lykke CHF	lkeCHF	AHG1gqienL4Gj5kcJhqm5U5LFCMtt8Vfy6	2	Currency	100,000	31/03/16	01/01/17
-Lykke EUR	lkeEUR	AbjAzsV5s5ANrGK3Kf3qbKQVQYSS3McfUH	2	Currency	100,000	31/03/16	01/01/17
-Lykke GBP	lkeGBP	AJZos2d6vHxAYWLcu9xFudm1MDxK6FTk7u	2	Currency	100,000	31/03/16	01/01/17
-Lykke USD	lkeUSD	AJ7wAWbH8Rd5UEHnMC6EoBP5B1gUa7U3cw	2	Currency	100,000	31/03/16	01/01/17
-Lykke JPY	lkeJPY	AUrMzvHTYJ8oQVECCEAXUU4dBM5PvhkP9Z	2	Currency	10,000,000	31/03/16	01/01/17
-Lykke Corp Equity	Lykke	ANEjN5ngJJefc8RjKZHeAc37uHKzpwdsc8	0	Stock	1,250,000,000	31/03/16	01/01/17
